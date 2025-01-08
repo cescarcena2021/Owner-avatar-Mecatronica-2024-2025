@@ -5,8 +5,11 @@ En este blog se esponen todos los trabajos realizados durant el curso y como se 
 
 ## Diseño 2D
 
+En esta primera imagen tenemos una demostracion del uso y primer contacto con el programa inkscape, el cual es open sourec y es el que usaremos durente todo la asignatura para diseño 2D
 ![image](https://github.com/user-attachments/assets/085a57de-5bad-43c8-8626-2a4b64e77f2d)
 
+
+En esta imagen podemos ver la comparativa entre los que se ve en una imagen en formato svj y su codigo xml
 ![image](https://github.com/user-attachments/assets/7ffc5b50-f6dd-4fba-b40d-7dbec5192de5)
 
 ```xml
