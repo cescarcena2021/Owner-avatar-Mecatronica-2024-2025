@@ -1,15 +1,17 @@
-# Mecatronica-2024-2025
-Repositorio de la asignatura de mecatrónica
+# Mecatrónica 2024-2025
+Repositorio de la asignatura de Mecatrónica
 
-En este blog se esponen todos los trabajos realizados durant el curso y como se fueron superando las distinas pruebas de la asignatura
+En este blog se exponen todos los trabajos realizados durante el curso y cómo se fueron superando las distintas pruebas de la asignatura.
 
 ## Diseño 2D
 
-En esta primera imagen tenemos una demostracion del uso y primer contacto con el programa inkscape, el cual es open sourec y es el que usaremos durente todo la asignatura para diseño 2D
+En esta primera imagen tenemos una demostración del uso y primer contacto con el programa Inkscape, el cual es de código abierto (open source) y es el que usaremos durante toda la asignatura para diseño 2D.  
+
 ![image](https://github.com/user-attachments/assets/085a57de-5bad-43c8-8626-2a4b64e77f2d)
 
 
-En esta imagen podemos ver la comparativa entre los que se ve en una imagen en formato svj y su codigo xml
+En esta imagen podemos ver la comparativa entre lo que se ve en una imagen en formato SVG y su código XML.
+
 ![image](https://github.com/user-attachments/assets/7ffc5b50-f6dd-4fba-b40d-7dbec5192de5)
 
 ```xml
@@ -73,7 +75,7 @@ En esta imagen podemos ver la comparativa entre los que se ve en una imagen en f
 
 ### Retos 
 
-En las siguientes imagentes se muestran algunos de los retos realizados en clase para el desarollo de las habilidaddes en la plataforma.
+Como reto final, hice un contorneado y coloreado de una foto de mi hermano aplicando las técnicas conocidas en clase y otras que busqué por Internet.
 
 ![image](https://github.com/user-attachments/assets/18859c93-5620-44dd-9c42-3ab4db7cd508)
 
@@ -93,9 +95,8 @@ Como reto final hice un contorneado y coloreado de una foto de mi hermano aplica
 
 ## Diseño de circuitos digitales
 
-A continuacion mostraré varias de los retos planteados en clase con la Alhambra II, desde el encendido de un led hasta cosas mas complejas como simular que un pixel tiene gravedad.
-Toda esta parte de la asignatura fu realizada junto a Javier Lozano y Sergio Robledo
-
+A continuación, mostraré varios de los retos planteados en clase con la Alhambra II, desde el encendido de un LED hasta cosas más complejas como simular que un píxel tiene gravedad.
+Toda esta parte de la asignatura fue realizada junto a Javier Lozano y Sergio Robledo.
 
 https://github.com/user-attachments/assets/94c7801f-74e8-45e8-a3cf-dc49aea3f1fa
 
