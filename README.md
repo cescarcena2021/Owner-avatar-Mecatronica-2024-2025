@@ -9,7 +9,7 @@ En este blog se esponen todos los trabajos realizados durant el curso y como se 
 
 ![image](https://github.com/user-attachments/assets/7ffc5b50-f6dd-4fba-b40d-7dbec5192de5)
 
-```
+```xml
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
