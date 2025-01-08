@@ -71,12 +71,20 @@ En esta imagen podemos ver la comparativa entre los que se ve en una imagen en f
 </svg>
 ```
 
+### Retos 
+
+En las siguientes imagentes se muestran algunos de los retos realizados en clase para el desarollo de las habilidaddes en la plataforma.
+
 ![image](https://github.com/user-attachments/assets/18859c93-5620-44dd-9c42-3ab4db7cd508)
 
 ![image](https://github.com/user-attachments/assets/9f4a9663-de1f-4df9-b4c6-3498ea0c7d19)
 
 ![image](https://github.com/user-attachments/assets/39da2894-b5c4-4e8b-bb24-65bda4c2205c)
 
+
+### Reto Final
+
+Como reto final hice un contorneado y coloreado de una foto de mi hermano aplicando las tecnicas conocidas en calse y algunos otras que busque por internet.
 ![image](https://github.com/user-attachments/assets/5731454a-05cf-418b-ad8f-899a63f0bb0b)
 
 ![image](https://github.com/user-attachments/assets/05ef6607-b7ea-4429-b86f-4afe17f79890)
