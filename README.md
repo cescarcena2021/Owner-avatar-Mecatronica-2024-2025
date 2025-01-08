@@ -85,6 +85,7 @@ En las siguientes imagentes se muestran algunos de los retos realizados en clase
 ### Reto Final
 
 Como reto final hice un contorneado y coloreado de una foto de mi hermano aplicando las tecnicas conocidas en calse y algunos otras que busque por internet.
+
 ![image](https://github.com/user-attachments/assets/5731454a-05cf-418b-ad8f-899a63f0bb0b)
 
 ![image](https://github.com/user-attachments/assets/05ef6607-b7ea-4429-b86f-4afe17f79890)
